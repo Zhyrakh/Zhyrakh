@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hello there, I'm Kai 🙌
 
-<!--
-**Zhyrakh/Zhyrakh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently working as academic staff at [Aalen University](https://www.hs-aalen.de/), where I'm also pursuing my Master's Degree in Computer Science (after graduating my Bachelor's here in 2023). 
+I teach, mentor, and code — always eager to learn and share knowledge!
 
-Here are some ideas to get you started:
+## 🧑‍💻 About Me
+- **Academic Staff & Student** at Aalen University
+- **Bachelor's Degree:** Computer Science (2023)
+- **Master's Degree:** Computer Science (ongoing, part-time)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻Tech Stack
+- **C++** & **Unreal Engine 5** (main focus)
+- **Python** (teaching & development)
+- **Java** (actively used in academic projects)
+
+## 🚀 Projects
+> _Coming soon! I'll showcase some public repositories here once they're ready._
+
+## 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/kai-manuel-nossek-473b751b7/)
+
+## ⚔️ Fun Facts & Interests
+- Practitioner of **HEMA** (Historical European Martial Arts) and **lightsaber fencing** (both full-contact and choreographed stage fights)
+- Represented my group, the **Stauferlöwen**, at the **Kingdom Come: Deliverance II** booth during Gamescom 2024
+
+---
+
+Thanks for stopping by!  
+Feel free to reach out or connect on LinkedIn.
+
+---
