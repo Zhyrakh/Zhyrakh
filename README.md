@@ -9,6 +9,7 @@ I teach, mentor, and code — always eager to learn and share knowledge!
 - **Master's Degree:** Computer Science (ongoing, part-time)
 
 ## 💻Tech Stack
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 - **C++** & **Unreal Engine 5** (main focus)
 - **Python** (teaching & development)
 - **Java** (actively used in academic projects)
