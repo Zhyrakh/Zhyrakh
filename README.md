@@ -13,16 +13,16 @@ I teach, mentor, and code — always eager to learn and share knowledge!
 - **C++** & **Unreal Engine 5** (main focus)
 - **Python** (teaching & development)
 - **Java** (actively used in academic projects)
-
-## 🚀 Projects
-> _Coming soon! I'll showcase some public repositories here once they're ready._
+- Other languages I used and can work with include:
+    - dart / Flutter
+    - JavaScript (node.js)
 
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/kai-manuel-nossek-473b751b7/)
 
 ## ⚔️ Fun Facts & Interests
 - Practitioner of **HEMA** (Historical European Martial Arts) and **lightsaber fencing** (both full-contact and choreographed stage fights)
-- Represented my group, the **Stauferlöwen**, at the **Kingdom Come: Deliverance II** booth during Gamescom 2024
+- Represented my group, the **Saber Knights** (then known as the Stauferlöwen), at the **Kingdom Come: Deliverance II** booth during Gamescom 2024
 
 ---
 
