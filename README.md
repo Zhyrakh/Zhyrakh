@@ -23,7 +23,7 @@ I teach, mentor, and code — always eager to learn and share knowledge!
 
 ## ⚔️ Fun Facts & Interests
 - Practitioner and Coach of **HEMA** (Historical European Martial Arts) and **lightsaber fencing** (both full-contact and choreographed stage fights)
-- Represented my group, the **[Saber Knights](https://linktr.ee/SaberKnights)** (then known as the Stauferlöwen), at the **Kingdom Come: Deliverance II** booth during Gamescom 2024
+- Represented my group, the **[Saber Knights](https://linktr.ee/SaberKnights)** (at the time known as the Stauferlöwen), at the **Kingdom Come: Deliverance II** booth during Gamescom 2024
 
 ---
 
